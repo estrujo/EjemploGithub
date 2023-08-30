@@ -1,0 +1,51 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Bakbak+One&family=Roboto:wght@300;400;700&display=swap');
+
+
+body{
+    background-color:rgb(245, 238, 238);
+    font-family: 'Roboto', sans-serif;
+}
+
+h5{
+    font-family:'Bakbak One', cursive;
+}
+
+h2{
+    font-family: 'Bakbak One', cursive;
+    font-weight: 700;
+    color: rgb(44, 46, 48);
+    font-size: 40px;
+}
+
+.bg-colorPrincipal{
+    background-color: rgb(127, 184, 221);
+}
+
+.btn-exterior-colorPrincipal{
+    border-color: rgb(23, 24, 23);
+}
+
+.btn-exterior-colorPrincipal:hover{
+    background-color:rgb(69, 233, 197);
+    transition: 0.5s;
+}
+
+.btn-efecto{
+    color: white;
+}
+
+.btn-efecto:hover{
+    background-color: blue;
+    transition: 0.5s;
+}
+
+.colorIcon{
+    color:white;
+}
+
+.colorIcon:hover{
+    color: blue;
+    transition: 0.5s;
+}
